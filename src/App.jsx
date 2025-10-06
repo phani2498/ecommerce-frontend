@@ -5,7 +5,7 @@ import Signup from './components/Signup';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomePage from './components/HomePage';
 
-import AboutUs from "./components/Aboutus";
+import Aboutus from "./components/Aboutus";
 
 import Computers from './components/Computers';
 import Mobiles from './components/Mobiles';
